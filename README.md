@@ -6,9 +6,9 @@ Pequeño programa desarrollado en Java para la conexión de BBDD de MySQL con Ja
 /*
 
 /*
-**Primero se crea una clase con el nombre Conexion.java en la que se establece la conexión con la Base de Datos de MySQL en local y se recoge un error en caso de que ésta fallse.
+**Primero se crea una clase con el nombre Conexion.java en la que se establece la conexión con la Base de Datos de MySQL en local y se recoge un error en caso de que ésta fallase.
 
 **En segundo lugar, se crea una clase con el nombre TestConexion que nos permitirá hacer la llamada a nuestra Base de Datos mediante StatementQuery y nos devolverá por consola los datos registrados en la tabla creada en MySQL con el nombre proveedores.
 
-**En tercer lugar, en la carpeta de nuestro proyecto se exporta un fichero plano que recoge esos datos registrados en las consola.
+**En tercer lugar, en la carpeta de nuestro proyecto se exporta un fichero plano que recoge esos datos registrados en la consola.
 /*
